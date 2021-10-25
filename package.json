@@ -1,5 +1,5 @@
 {
-  "name": "shell2",
+  "name": "node-shell2",
   "version": "1.0.0",
   "description": "",
   "main": "bash.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/AinsleyB29/Node-Shell2.git"
+    "url": "git+https://github.com/CDelancy19/Node-Shell2.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AinsleyB29/Node-Shell2/issues"
+    "url": "https://github.com/CDelancy19/Node-Shell2/issues"
   },
-  "homepage": "https://github.com/AinsleyB29/Node-Shell2#readme",
+  "homepage": "https://github.com/CDelancy19/Node-Shell2#readme",
   "dependencies": {
     "request": "^2.88.2"
   }
